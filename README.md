@@ -23,13 +23,13 @@ This project highlights **modern CSS capabilities** (perspective, rotation, tran
 
 ---
 ## 📂 Folder Structure
-
+```bash
 3d-boxes-project/
 │── index.html      # Main HTML structure  
 │── style.css       # CSS styling and 3D transformations  
 │── script.js       # Interactivity with JavaScript  
 └── assets/         # (Optional) Images or supporting files  
-
+```
 ---
 ## 🚀 Getting Started  
 
