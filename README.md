@@ -37,3 +37,7 @@ This project highlights **modern CSS capabilities** (perspective, rotation, tran
 ```bash
 git clone https://github.com/varsha2254/3d-boxes-project.git
 cd 3d-boxes-project
+```
+### 2. Open in Browser
+
+Simply open index.html in any modern browser (Chrome, Edge, Firefox).
