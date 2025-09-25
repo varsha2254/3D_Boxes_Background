@@ -1,22 +1,39 @@
-# 🎩 3D Boxes Background  
+# 🎲 3D Boxes Animation Project  
 
-An interactive web project built with **HTML, CSS, and JavaScript** that creates a dynamic 3D box grid.  
-Clicking the **Magic 🎩 button** toggles animations, rotating the boxes and creating an engaging visual effect.  
+## 📌 Introduction  
+The **3D Boxes Project** is a front-end web animation that demonstrates how **CSS 3D transforms** and **JavaScript interactivity** can be combined to create engaging and realistic **cube-based visual effects**.  
 
-## 🚀 Features  
-- 3D rotating grid of boxes with smooth CSS transitions  
-- Interactive toggle using JavaScript event handling  
-- Background GIF applied seamlessly across the grid  
-
-## 🛠️ Technologies Used  
-- HTML  
-- CSS (Flexbox, Transforms, Animations)  
-- JavaScript (DOM Manipulation, Event Listeners)  
-
-## 🎯 How to Run  
-1. Clone this repository  
-2. Open `index.html` in your browser  
-3. Click the **Magic 🎩 button** to see the effect in action  
+This project highlights **modern CSS capabilities** (perspective, rotation, transform, transitions) along with **vanilla JavaScript** for interactivity. It’s lightweight, responsive, and requires no external libraries.  
 
 ---
-✨ A fun mini-project to explore CSS animations and JavaScript interactivity!
+
+## ✨ Features  
+- 📦 **Dynamic 3D Cube Layout** – Boxes rendered in a grid with depth effects.  
+- 🎨 **CSS Transformations** – Rotation, scaling, and smooth transitions.  
+- 🔄 **Interactive Animations** – Rotate or animate on hover/click.  
+- 🌐 **Cross-Browser Support** – Runs on all major browsers.  
+- 💡 **Light & Shadow Effects** – Adds realism with CSS styling.  
+
+---
+
+## 🛠️ Tech Stack  
+- **HTML5** → Structure of the 3D environment.  
+- **CSS3** → 3D perspective, transforms, keyframe animations.  
+- **JavaScript (Vanilla)** → Event handling and dynamic interaction.  
+
+---
+## 📂 Folder Structure
+
+3d-boxes-project/
+│── index.html      # Main HTML structure  
+│── style.css       # CSS styling and 3D transformations  
+│── script.js       # Interactivity with JavaScript  
+└── assets/         # (Optional) Images or supporting files  
+
+---
+## 🚀 Getting Started  
+
+### 1. Clone the Repository  
+```bash
+git clone https://github.com/varsha2254/3d-boxes-project.git
+cd 3d-boxes-project
